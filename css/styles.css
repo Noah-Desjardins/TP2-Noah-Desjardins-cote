@@ -56,3 +56,6 @@ width: 600px;
 .iframe{
     width: 100%;
 }
+.image{
+    border-radius: 75px;
+}
